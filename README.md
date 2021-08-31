@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Half-n-half penchant for Ada Lovelace and Josephine March? You're in the right place.
+
 <!--
 **Swatilekha-Roy/Swatilekha-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
