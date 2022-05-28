@@ -3,9 +3,10 @@
 Half-n-half penchant for Ada Lovelace and Josephine March? You're in the right place.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,codepen,discord,express,figma,gcp,git,github,heroku,instagram,java,linkedin,md,mongodb,nodejs,tensorflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,codepen,express,figma,gcp,git,github,heroku,java,md,mongodb,nodejs,tensorflow,vscode)](https://skillicons.dev)
 
-
+## Socials
+[![My Skills](https://skillicons.dev/icons?i=discord,instagram,linkedin)](https://skillicons.dev)
 
 <!--
 **Swatilekha-Roy/Swatilekha-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
