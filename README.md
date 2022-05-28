@@ -3,7 +3,7 @@
 Half-n-half penchant for Ada Lovelace and Josephine March? You're in the right place.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,codepen,discord,express,figma,gcp,git,github,heroku,instagram,java,linkedin,md,mongodb,nodejs,tensorflow,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,codepen,discord,express,figma,gcp,git,github,heroku,instagram,java,linkedin,md,mongodb,nodejs,tensorflow,vscode&perline=10)](https://skillicons.dev)
 
 
 
