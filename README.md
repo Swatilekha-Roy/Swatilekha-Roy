@@ -8,6 +8,8 @@ Half-n-half penchant for Ada Lovelace and Josephine March? You're in the right p
 ## Socials
 [![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linkedin)](https://skillicons.dev)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!--
 **Swatilekha-Roy/Swatilekha-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
