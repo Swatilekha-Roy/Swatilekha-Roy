@@ -9,7 +9,10 @@ Half-n-half penchant for Ada Lovelace and Josephine March? You're in the right p
 [![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linkedin)](https://skillicons.dev)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Swatilekha-Roy.visitor-badge)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swatilekha-Roy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swatilekha-Roy&layout=compact)](https://github.com/Swatilekha-Roy/github-readme-stats)
 
 ### Fun Fact
 I got to meet my author of my favourite book "Call Me By Your Name", Andre Aciman, back in 2019 and that was a life-changing moment for me! 💝
